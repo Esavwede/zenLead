@@ -1,0 +1,25 @@
+{
+  "name": "zenlead",
+  "version": "1.0.0",
+  "description": "zenLead uses keywords to generate leads",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esavwede/zenLead.git"
+  },
+  "keywords": [
+    "lead",
+    "generation",
+    "bot",
+    "automation"
+  ],
+  "author": "esavwede ogagaoghene emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esavwede/zenLead/issues"
+  },
+  "homepage": "https://github.com/Esavwede/zenLead#readme"
+}
